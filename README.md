@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <figure><embed src="https://wakatime.com/share/@daraco/393bff50-aee4-4f36-b4d8-21dd562b8838.svg"></embed></figure>
-[![Darko's GitHub stats](https://github-readme-stats.vercel.app/api?username=daracoo)](https://github.com/anuraghazra/github-readme-stats)
