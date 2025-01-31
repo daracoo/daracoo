@@ -2,7 +2,7 @@
 <p>Currently in my 4th year at <a href="https://www.finki.ukim.mk/mk" target="_blank">FCSE</a> Skopje</p>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/darko-kuzmanoski) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dkuzmanoski21@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darko-kuzmanoski) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dkuzmanoski21@gmail.com) 
 
 # 💻 Tech Stack:
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
