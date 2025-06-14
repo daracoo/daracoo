@@ -23,10 +23,6 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a></p>
 
-## ⌛ Weekly WakaTime Stats
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=daracoo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=daracoo&theme=dark&hide_border=false)<br/>
@@ -34,4 +30,8 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=daracoo&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+## ⌛ Weekly WakaTime Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
