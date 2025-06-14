@@ -33,5 +33,14 @@
 
 ## ⌛ Weekly WakaTime Stats
 <!--START_SECTION:waka-->
+
+```txt
+JavaScript   4 hrs 59 mins   █████████████▓░░░░░░░░░░░   54.62 %
+TypeScript   3 hrs 55 mins   ██████████▓░░░░░░░░░░░░░░   42.84 %
+SCSS         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+Markdown     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+```
+
 <!--END_SECTION:waka-->
 
