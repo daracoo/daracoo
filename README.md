@@ -35,15 +35,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 July 2025 - To: 28 July 2025
+From: 23 July 2025 - To: 30 July 2025
 
-Total Time: 19 hrs 32 mins
+Total Time: 17 hrs 2 mins
 
-JavaScript   11 hrs 58 mins  eeeeeeeeeeeeeeerttttttttt   61.30 %
-SCSS         5 hrs 55 mins   eeeeeeeuttttttttttttttttt   30.30 %
-YAML         42 mins         etttttttttttttttttttttttt   03.65 %
-Docker       23 mins         utttttttttttttttttttttttt   02.03 %
-JSON         12 mins         rtttttttttttttttttttttttt   01.07 %
+JavaScript   11 hrs 21 mins  eeeeeeeeeeeeeeeeutttttttt   66.61 %
+SCSS         4 hrs 50 mins   eeeeeeetttttttttttttttttt   28.38 %
+PHP          34 mins         utttttttttttttttttttttttt   03.33 %
+Git Config   10 mins         rtttttttttttttttttttttttt   01.06 %
+JSON         4 mins          ttttttttttttttttttttttttt   00.45 %
 ```
 
 <!--END_SECTION:waka-->
