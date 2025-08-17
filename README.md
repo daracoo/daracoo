@@ -35,14 +35,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 August 2025 - To: 14 August 2025
+From: 08 August 2025 - To: 15 August 2025
 
-Total Time: 16 hrs 25 mins
+Total Time: 14 hrs 27 mins
 
-JavaScript   9 hrs 42 mins   eeeeeeeeeeeeeeutttttttttt   58.30 %
-PHP          3 hrs 38 mins   eeeeerttttttttttttttttttt   21.84 %
-SCSS         2 hrs 44 mins   eeeettttttttttttttttttttt   16.42 %
-Other        13 mins         rtttttttttttttttttttttttt   01.35 %
+JavaScript   8 hrs 17 mins   eeeeeeeeeeeeeettttttttttt   56.56 %
+PHP          3 hrs 38 mins   eeeeeertttttttttttttttttt   24.78 %
+SCSS         2 hrs 10 mins   eeeuttttttttttttttttttttt   14.77 %
+Other        13 mins         rtttttttttttttttttttttttt   01.52 %
 ```
 
 <!--END_SECTION:waka-->
