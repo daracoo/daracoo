@@ -35,15 +35,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 August 2025 - To: 24 August 2025
+From: 18 August 2025 - To: 25 August 2025
 
-Total Time: 31 hrs 6 mins
+Total Time: 29 hrs 41 mins
 
-JavaScript   14 hrs 34 mins  eeeeeeeeeeeuttttttttttttt   46.68 %
-SCSS         11 hrs 5 mins   eeeeeeeeetttttttttttttttt   35.50 %
-PHP          3 hrs 51 mins   eeetttttttttttttttttttttt   12.37 %
-Kotlin       49 mins         utttttttttttttttttttttttt   02.64 %
-YAML         15 mins         rtttttttttttttttttttttttt   00.83 %
+JavaScript   13 hrs 55 mins  eeeeeeeeeeeuttttttttttttt   46.67 %
+SCSS         12 hrs 22 mins  eeeeeeeeeertttttttttttttt   41.47 %
+PHP          1 hr 46 mins    erttttttttttttttttttttttt   05.95 %
+Kotlin       49 mins         utttttttttttttttttttttttt   02.77 %
+YAML         15 mins         rtttttttttttttttttttttttt   00.87 %
 ```
 
 <!--END_SECTION:waka-->
