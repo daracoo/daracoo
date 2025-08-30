@@ -35,15 +35,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 August 2025 - To: 27 August 2025
+From: 22 August 2025 - To: 29 August 2025
 
-Total Time: 25 hrs 7 mins
+Total Time: 16 hrs 49 mins
 
-JavaScript   15 hrs 55 mins  eeeeeeeeeeeeeeeuttttttttt   63.25 %
-SCSS         6 hrs 50 mins   eeeeeeutttttttttttttttttt   27.19 %
-PHP          2 hrs 2 mins    eettttttttttttttttttttttt   08.14 %
-HTML         7 mins          ttttttttttttttttttttttttt   00.48 %
-Git Config   3 mins          ttttttttttttttttttttttttt   00.26 %
+JavaScript   10 hrs 30 mins  eeeeeeeeeeeeeeeuttttttttt   62.17 %
+SCSS         4 hrs 3 mins    eeeeeettttttttttttttttttt   24.02 %
+PHP          1 hr 29 mins    eertttttttttttttttttttttt   08.82 %
+Bash         19 mins         rtttttttttttttttttttttttt   01.96 %
+Git Config   16 mins         rtttttttttttttttttttttttt   01.62 %
 ```
 
 <!--END_SECTION:waka-->
