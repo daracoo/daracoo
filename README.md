@@ -35,15 +35,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 September 2025 - To: 09 September 2025
+From: 03 September 2025 - To: 10 September 2025
 
-Total Time: 3 hrs 35 mins
+Total Time: 3 hrs 56 mins
 
-JavaScript         1 hr 30 mins    eeeeeeeeeertttttttttttttt   41.99 %
-YAML               1 hr 24 mins    eeeeeeeeeuttttttttttttttt   39.28 %
-reStructuredText   9 mins          etttttttttttttttttttttttt   04.35 %
-Java               5 mins          utttttttttttttttttttttttt   02.52 %
-JSON               5 mins          utttttttttttttttttttttttt   02.37 %
+JavaScript         1 hr 44 mins    eeeeeeeeeeetttttttttttttt   44.26 %
+YAML               1 hr 26 mins    eeeeeeeeerttttttttttttttt   36.69 %
+JSON               10 mins         etttttttttttttttttttttttt   04.29 %
+reStructuredText   9 mins          etttttttttttttttttttttttt   03.97 %
+Java               5 mins          utttttttttttttttttttttttt   02.30 %
 ```
 
 <!--END_SECTION:waka-->
