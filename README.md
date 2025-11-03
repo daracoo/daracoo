@@ -35,15 +35,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 October 2025 - To: 31 October 2025
+From: 25 October 2025 - To: 01 November 2025
 
-Total Time: 42 mins
+Total Time: 1 hr 25 mins
 
-Java             32 mins         eeeeeeeeeeeeeeeeeeerttttt   76.93 %
-CLASS            8 mins          eeeeutttttttttttttttttttt   19.29 %
-Kotlin           0 secs          rtttttttttttttttttttttttt   01.83 %
-XML              0 secs          rtttttttttttttttttttttttt   01.07 %
-GitIgnore file   0 secs          rtttttttttttttttttttttttt   00.88 %
+Java             1 hr 15 mins    eeeeeeeeeeeeeeeeeeeeeettt   88.47 %
+CLASS            8 mins          eertttttttttttttttttttttt   09.64 %
+Kotlin           0 secs          rtttttttttttttttttttttttt   00.92 %
+XML              0 secs          ttttttttttttttttttttttttt   00.54 %
+GitIgnore file   0 secs          ttttttttttttttttttttttttt   00.44 %
 ```
 
 <!--END_SECTION:waka-->
