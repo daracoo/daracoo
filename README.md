@@ -35,12 +35,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 November 2025 - To: 25 November 2025
+From: 19 November 2025 - To: 26 November 2025
 
-Total Time: 15 mins
+Total Time: 1 hr 21 mins
 
-JavaScript   14 mins         eeeeeeeeeeeeeeeeeeeeeeeet   96.02 %
-Git Config   0 secs          etttttttttttttttttttttttt   03.98 %
+Java         1 hr 6 mins     eeeeeeeeeeeeeeeeeeeertttt   81.18 %
+JavaScript   14 mins         eeeeutttttttttttttttttttt   18.08 %
+Git Config   0 secs          rtttttttttttttttttttttttt   00.75 %
 ```
 
 <!--END_SECTION:waka-->
