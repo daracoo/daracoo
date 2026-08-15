@@ -35,15 +35,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 August 2026 - To: 12 August 2026
+From: 06 August 2026 - To: 13 August 2026
 
-Total Time: 14 mins
+Total Time: 5 mins
 
-Java Properties   7 mins                eeeeeeeeeeeertttttttttttt   49.10 %
-Java              6 mins                eeeeeeeeeeerttttttttttttt   45.46 %
-Markdown          0 secs                erttttttttttttttttttttttt   05.24 %
-GitIgnore file    0 secs                ttttttttttttttttttttttttt   00.19 %
-XML               0 secs                ttttttttttttttttttttttttt   00.01 %
+Java              5 mins                eeeeeeeeeeeeeeeeeeeeeeeer   97.68 %
+Java Properties   0 secs                utttttttttttttttttttttttt   02.32 %
 ```
 
 <!--END_SECTION:waka-->
